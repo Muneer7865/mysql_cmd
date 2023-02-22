@@ -8,9 +8,9 @@ This project is a **childcare** inquiry  application that allows users to **crea
  
  - 1.ID : `INT`
  - 2. Name : `VARCHAR(50)`
- - 3. Phone Number `VARHAR(100)`
- - 4. Email `VARHAR(50)`
- - 5. Child Name`VARHAR(50)`
+ - 3. Phone Number `VARCHAR(100)`
+ - 4. Email `VARCHAR(50)`
+ - 5. Child Name`VARCHAR(50)`
  - 6. Child Age `INT`
  
 ### 3.Create Table
