@@ -172,9 +172,9 @@ We use as in **mysql** cmd it will change the **column name temporary** while ch
 SELECT childname AS name FROM childcare 
 ```
 
-### Advance Commands
+### Aggregate Functions
 
-**AVG,SUM,COUNT,MAX,MIN** WE use this comands to check the Average,Sum(total),Count(count of rows),Minimum,Maximum values of data.
+**AVG , SUM , COUNT , MAX , MIN** we use this aggregate functions to check the Average,Sum(total),Count(count of rows),Minimum,Maximum values of data.
 This are only apply on **Number** data type.
 
 #### EXAMPLE
